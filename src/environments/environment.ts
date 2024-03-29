@@ -1,4 +1,4 @@
 export const environment = {
     production: false,
-    shopApiUrl: "https://localhost:8443/api"
+    shopApiUrl: "https://spring-boot-ecommerce-production-63c7.up.railway.app/api"
 };
