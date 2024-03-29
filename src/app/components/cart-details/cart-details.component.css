@@ -1,0 +1,22 @@
+.primary-btn{
+    background:#05143f;
+    padding:7px 20px;
+    text-align:center;
+    display:inline-block;
+    color:#fff;
+    border-radius:2px;
+    font-size:14px;
+    margin-top:5px;
+}
+.primary-btn:hover{
+    background:#0da8e4;
+    color:#fff
+}
+.subtitle{
+    margin-bottom: 0;
+}
+.quantity{
+    margin-top: 5px;
+    font-weight: bold;
+    margin-bottom: 0;
+}

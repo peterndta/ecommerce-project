@@ -1,0 +1,51 @@
+.security-btn {
+    height: 45px;
+    position:relative;
+    right:0;
+    min-width:95px;
+    color:#fff;
+    border:1px solid #205b8d;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:43px;
+    background:#205b8d
+}
+.security-btn:hover{
+    background:#05143f
+}
+
+.security-btn>i{
+    font-size:20px;
+    color:#fff;
+    position:absolute;
+    top:50%;
+    left:50%;
+    -webkit-transform:translate(-50%,-50%);
+    -moz-transform:translate(-50%,-50%);
+    -ms-transform:translate(-50%,-50%);
+    -o-transform:translate(-50%,-50%);
+    transform:translate(-50%,-50%)
+}
+.login-status-header{
+    display:-webkit-box;
+    display:-webkit-flex;
+    display:-moz-box;
+    display:-ms-flexbox;
+    display:flex
+}
+
+.login-status-user-info{
+    font-weight: bold;
+    line-height:43px;
+    border:2px solid #e5e5e5;
+    font-size:14px;
+    color:#ffffff;
+    padding:0 17px;
+    -webkit-border-radius:3px;
+    -moz-border-radius:3px;
+    border-radius:3px;
+    -webkit-transition:all .5s ease;
+    -o-transition:all .5s ease;
+    -moz-transition:all .5s ease;
+    transition:all .5s ease
+}
